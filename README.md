@@ -1,4 +1,4 @@
-# Coding 1 | MUST 4707
+# Coding 2 | MUST 4707
 
 ## Creating Custom Objects with Properites
 
